@@ -13,6 +13,7 @@ var ENCERRAMENTO =0;
 var JOGAR =1;
 var estadoJogo = JOGAR;
 
+
 var distancia=0;
 var fimdeJogo, recomecar;
 
